@@ -8,5 +8,8 @@ public class Test {
 
         Singleton_eh s1 = Singleton_eh.INSTANCE;
         System.out.println(s1);
+
+        System.out.println("你好，轲轲");
+        System.out.println("你好，婷婷");
     }
 }
