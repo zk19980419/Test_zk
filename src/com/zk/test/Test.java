@@ -11,5 +11,6 @@ public class Test {
 
         System.out.println("你好，轲轲");
         System.out.println("你好，婷婷");
+        System.out.println("你好，hot-fix");
     }
 }
